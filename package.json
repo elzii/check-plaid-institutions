@@ -1,0 +1,20 @@
+{
+  "name": "check-plaid-institutions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "flat": "^2.0.1",
+    "json2csv": "^3.7.3",
+    "node-fetch": "^1.7.0",
+    "promise.bar": "^0.1.4",
+    "strip-ansi": "^3.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
